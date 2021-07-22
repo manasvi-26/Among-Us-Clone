@@ -3,7 +3,7 @@
 In this assignment , using opengl , we were supposed to code a 2d among us single player variant
 
 ### GamePlay
-- ### Feautures
+- ### Features
 - You play as a blue crewmate who has the objective to finsih 2 tasks and get out of the maze as soon as possible
 - These tasks are orange coloured spaces in the maze and you are required to go to these points to complete
 -  Completion of a task is one step closer to you escaping and also rewards you 5 health points
